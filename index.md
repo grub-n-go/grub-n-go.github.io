@@ -1,4 +1,11 @@
-## Welcome to Grub-N-Go
+## Table of contents
+
+* [Who We Are](#who-we-are)
+* [Overview](#overview)
+* [Approach](#approach)
+* [Use Case Ideas](#use-case-ideas)
+* [Beyond The Basics](#beyond-the-basics)
+* [Team](#team)
 
 
 ### **Who We Are:**
@@ -12,7 +19,7 @@
 * Be able to check what forms of payment the location accepts(i.e. Apple pay, UH dining credits, AMEX.)
 
 
-### In Development: 
+### Approach 
 
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp;The app should be able to provide a landing page in which an image would show a potential highlight of a specific restaurant for the day. The app would also provide a navigation bar at the top of the landing page in where it would show the organizations logo at the top left of the screen and the center screen would provide the navigation around the website and lastly on the far top right of the screen would show social media links and login information and/or option. The Navigation bar would display links to restaurants, food trucks, and other food options around the campus. In the end the app layout would have all the following information:
@@ -27,4 +34,4 @@ The app would then also contain a footer menu in which it would display a contac
 
 ### Mock-Ups And Screen Shots:
 
-<img class="ui xlarge image" src="/image/UHmock-up.png" width="1000">
+
