@@ -4,8 +4,8 @@
 * [Approach](#approach)
 * [Use Case Ideas](#use-case-ideas)
 * [Beyond The Basics](#beyond-the-basics)
-* [Team](#team)
 * [Mock-Ups And Screen Shots](#Mock-Ups-And-Screen-Shots)
+* [Team](#team)
 
 ## **Overview**
 
