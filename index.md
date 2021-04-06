@@ -57,13 +57,12 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 ### **Navigation Bar Mockup/Screenshot Goal**
 <img class="ui large image" src="/image/UHmock-up.png">
-<p></p>
-<p></p>
+
 ### **Central Page Goal Design**
 <img class="ui large image" src="/image/PandaCentral.png">
-<p></p>
-<p></p>
+
 ### **Footer Menu Mockupup/Screenshot**
 <img class="ui large image" src="/image/footer.png">
+
 ## **Team**
 Grub-n-Go is designed, implemented, and maintained by [Ryan](https://ryanv048.github.io/) & [Kristine Rivera](https://tineriver.github.io/)
