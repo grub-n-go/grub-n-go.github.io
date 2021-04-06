@@ -27,4 +27,4 @@ The app would then also contain a footer menu in which it would display a contac
 
 ### Mock-Ups And Screen Shots:
 
-
+<img class="ui xlarge image" src="../images/UHmock-up.png" width="1000">
