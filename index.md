@@ -1,32 +1,16 @@
 ## Welcome to Grub-N-Go
 
-You can use the [editor on GitHub](https://github.com/grub-n-go/grub-n-go.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### **Who We Are:**
 
-### Markdown
+<p>
+The Goal of this project is to create an app that would enable students and faculty of The University of Hawaii at Manoa campus to easily search for places to eat, based on their cravings for the day, for example, if the user want to grab a coffee in the morning the user can search within the app and the app would show all the available coffee shops within the campus, or if the user wants to have a healthy meal replacement smoothie for lunch, the user would be able to search for that as well, and lastly, if the user wants to have pizza for dinner they would be able to locate a place that serves pizza for dinner. The app would also empower the user to find out what specific days a favorite dish of theirs is being served at a specific restaurant of their choosing. The app would also enable the user to do the following within the app:
+</p>
+-Allow the user to log in using their UH credentials
+-Show specific menu items available at the current time and show the locations of those places.
+-Show general menus available throughout the day on any specific day.
+-Be able to check what forms of payment the location accepts(i.e. Apple pay, UH dining credits, AMEX.)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
