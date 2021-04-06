@@ -61,7 +61,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 ### **Central Page Goal Design**
 <img class="ui large image" src="/image/PandaCentral.png">
 
-### **Footer Menu Mockupup/Screenshot**
+### **Footer Menu Mockupup/Screenshot End Result**
 <img class="ui large image" src="/image/footer.png">
 
 ## **Team**
