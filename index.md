@@ -4,7 +4,7 @@
 * [Approach](#approach)
 * [Use Case Ideas](#use-case-ideas)
 * [Beyond The Basics](#beyond-the-basics)
-* [Mock-Ups And Screen Shots](#Mock-Ups-And-Screen-Shots)
+* [Mock Ups And Screen Shots](#Mock-Ups-And-Screen-Shots)
 * [Team](#team)
 
 ## **Overview**
@@ -24,6 +24,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;The app should be able to provide a landing page in which an image would show a potential highlight of a specific restaurant for the day. The app would also provide a navigation bar at the top of the landing page in where it would show the organizations logo at the top left of the screen and the center screen would provide the navigation around the website and lastly on the far top right of the screen would show social media links and login information and/or option. The Navigation bar would display links to restaurants, food trucks, and other food options around the campus. In the end the app layout would have all the following information:
 </p>
 * Landing Page (Restaurant Highlight)
+* User Home Page / Profile
+* Vendor Home Page / Profile
+* Admin Home Page
+* Add Vendor Page
 * Link to Vendors HomePage Via Navigation Bar
 * Food Availability
 * Food Searches
@@ -53,7 +57,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Provide feed of tweets from vendors (some vendors might use Twitter to advertise daily specials and locations.)
 
 
-## **Mock-Ups And Screen Shots**
+## **Mock Ups And Screen Shots**
 
 ### **Navigation Bar Mockup/Screenshot Goal**
 <img class="ui large image" src="/image/UHmock-up.png">
