@@ -12,10 +12,19 @@
 * Be able to check what forms of payment the location accepts(i.e. Apple pay, UH dining credits, AMEX.)
 
 
-### Jekyll Themes
+### In Development: 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/grub-n-go/grub-n-go.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;The app should be able to provide a landing page in which an image would show a potential highlight of a specific restaurant for the day. The app would also provide a navigation bar at the top of the landing page in where it would show the organizations logo at the top left of the screen and the center screen would provide the navigation around the website and lastly on the far top right of the screen would show social media links and login information and/or option. The Navigation bar would display links to restaurants, food trucks, and other food options around the campus. In the end the app layout would have all the following information:
+</p>
+* Landing Page (Restaurant Highlight)
+* Link to Vendors HomePage Via Navigation Bar
+* Food Availability
+* Food Searches
+<p align="justify">
+The app would then also contain a footer menu in which it would display a contact us, about us, and so forth.
+</p>
 
-### Support or Contact
+### Mock-Ups And Screen Shots:
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
