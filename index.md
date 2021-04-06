@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Grub-N-Go
 
 You can use the [editor on GitHub](https://github.com/grub-n-go/grub-n-go.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
