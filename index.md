@@ -56,6 +56,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 ### **Mock-Ups And Screen Shots**
 
 <img class="ui large image" src="/image/UHmock-up.png">
+<img class="ui large image" src="/image/PandaCentral.png">
 
 ### **Team**
 Grub-n-Go is designed, implemented, and maintained by [Ryan](https://philipmjohnson.org) & [Kristine Rivera](https://tineriver.github.io/)
