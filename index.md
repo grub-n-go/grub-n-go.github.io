@@ -32,6 +32,18 @@
 The app would then also contain a footer menu in which it would display a contact us, about us, and so forth.
 </p>
 
+### Use Case Ideas
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.</p>
+
+* New user goes to landing page, logs in, gets home page, sets up profile.
+* New vendor goes to landing page, logs in, gets  home page, sets up profile.
+* Admin goes to landing page, logs in, gets home page, edits site.
+* User goes to landing page, logs in, looks for food to buy.
+* Vendor, goes to landing page, logs in, edits online store.
+* User is notified of daily menu changes and food items that matches their preferences.
+
 ### Mock-Ups And Screen Shots:
 
 <img class="ui large image" src="/image/UHmock-up.png">
