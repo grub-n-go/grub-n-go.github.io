@@ -69,4 +69,4 @@ After implementing the basic functionality, here are ideas for more advanced fea
 <img class="ui large image" src="/image/footer.png">
 
 ## **Team**
-Grub-n-Go is designed, implemented, and maintained by [Ryan](https://ryanv048.github.io/), [Kristine Rivera](https://tineriver.github.io/) & [Karl Penuliar](https://github.com/karlp1998)
+Grub-n-Go is designed, implemented, and maintained by [Ryan](https://ryanv048.github.io/), [Kristine Rivera](https://tineriver.github.io/), [Karl Penuliar](https://github.com/karlp1998), & [Michael Pierce](https://michaelrpierce.github.io/)
