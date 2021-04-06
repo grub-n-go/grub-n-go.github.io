@@ -25,24 +25,17 @@
 &nbsp;&nbsp;&nbsp;&nbsp;The app should be able to provide a landing page in which an image would show a potential highlight of a specific restaurant for the day. The app would also provide a navigation bar at the top of the landing page in where it would show the organizations logo at the top left of the screen and the center screen would provide the navigation around the website and lastly on the far top right of the screen would show social media links and login information and/or option. The Navigation bar would display links to restaurants, food trucks, and other food options around the campus. In the end the app layout would have all the following information:
 </p>
 * Landing Page (Restaurant Highlight)
-* Link to Vendors HomePage Via Navigation Bar
-* Food Availability
+* User Home Page
+* Vendor Home Page
+* Admin Home Page
+* Add Vendor
+* User Profile Page
+* Food Availabile Right Now Page
 * Food Searches
+* Today's Specials and Top Picks
 <p align="justify">
 The app would then also contain a footer menu in which it would display a contact us, about us, and so forth.
 </p>
-
-### Use Case Ideas
-
-<p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;Whether or not the following bullet points list all pages or not, the completed use case should show an end-to-end scenario of using the system.</p>
-
-* New user goes to landing page, logs in, gets home page, sets up profile.
-* New vendor goes to landing page, logs in, gets  home page, sets up profile.
-* Admin goes to landing page, logs in, gets home page, edits site.
-* User goes to landing page, logs in, looks for food to buy.
-* Vendor, goes to landing page, logs in, edits online store.
-* User is notified of daily menu changes and food items that matches their preferences.
 
 ### Mock-Ups And Screen Shots:
 
