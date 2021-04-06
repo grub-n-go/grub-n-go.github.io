@@ -55,7 +55,6 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 ### **Mock-Ups And Screen Shots**
 
-<img class="ui large image" src="/image/UHmock-up.png">
 <img class="ui large image" src="/image/PandaCentral.png">
 
 ### **Team**
