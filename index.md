@@ -55,6 +55,8 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 ### **Mock-Ups And Screen Shots**
 
+## **Below is the image that the team is projecting on how the app navigation bar will look like**
+<img class="ui large image" src="/image/UHmock-up.png">
 <img class="ui large image" src="/image/PandaCentral.png">
 
 ### **Team**
