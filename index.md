@@ -1,4 +1,8 @@
-<a href="https://github.com/manoa-hunger-helper/manoa-hunger-helper" class="btn">View on GitHub</a>
+<section class="page-header">
+      <h1 class="project-name">Grub-N-Go</h1>
+        <a href="https://github.com/manoa-hunger-helper/manoa-hunger-helper" class="btn">View on GitHub</a>
+</section>
+
 
 ## **Table of Contents**
 
