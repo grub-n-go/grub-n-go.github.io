@@ -4,8 +4,9 @@
 * [Approach](#approach)
 * [Use Case Ideas](#use-case-ideas)
 * [Beyond The Basics](#beyond-the-basics)
+* [GitHub Organization](#github-organization)
 * [Mock Ups And Screen Shots](#mock-ups-and-screen-shots)
-* [Project Board](#Project-Board)
+* [Project Board](#project-board)
 * [Team](#team)
 
 ## **Overview**
@@ -57,6 +58,8 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Integrated map functionality; note that some food trucks change their location over the course of a week.
 * Provide feed of tweets from vendors (some vendors might use Twitter to advertise daily specials and locations.)
 
+## ** GitHub Organization **
+* [Grub-N-Go](https://github.com/grub-n-go/grub-n-go)
 
 ## **Mock Ups And Screen Shots**
 
