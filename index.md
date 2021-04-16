@@ -69,7 +69,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 ### **Footer Menu Mockupup/Screenshot End Result**
 <img class="ui large image" src="/image/footer.png">
 
-### **Project Board**
+## **Project Board**
 * [M1](https://github.com/grub-n-go/grub-n-go/projects/2)
 * [M2](https://github.com/grub-n-go/grub-n-go/projects/5)
 
