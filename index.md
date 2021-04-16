@@ -58,8 +58,11 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Integrated map functionality; note that some food trucks change their location over the course of a week.
 * Provide feed of tweets from vendors (some vendors might use Twitter to advertise daily specials and locations.)
 
-## ** GitHub Organization **
+## **GitHub Organization**
 * [Grub-N-Go](https://github.com/grub-n-go/grub-n-go)
+
+## **Deployment**
+* [Digital Ocean Deployment of Grub-N-Go](http://104.236.199.85)
 
 ## **Mock Ups And Screen Shots**
 
