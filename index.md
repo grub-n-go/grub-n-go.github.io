@@ -67,7 +67,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 ## **Page Mock Ups And Screen Shots (Updated: April 15, 2021)**
 
 ### **Landing Page**
-<img class="ui large image" src="/image/landingBackground.jpeg">
+<img class="ui large image" src="/image/landing-page-draft.png">
 
 ### **Venues**
 <img class="ui large image" src="/image/venue-page-mockup.png">
