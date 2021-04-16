@@ -5,6 +5,7 @@
 * [Use Case Ideas](#use-case-ideas)
 * [Beyond The Basics](#beyond-the-basics)
 * [GitHub Organization](#github-organization)
+* [Deployment](#deployment)
 * [Page Mock Ups And Screen Shots](#page-mock-ups-and-screen-shots)
 * [Project Board](#project-board)
 * [Team](#team)
