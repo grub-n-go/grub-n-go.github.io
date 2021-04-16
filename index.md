@@ -59,7 +59,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Provide feed of tweets from vendors (some vendors might use Twitter to advertise daily specials and locations.)
 
 ## **GitHub Organization**
-* [Grub-N-Go](https://github.com/grub-n-go/grub-n-go)
+* [Grub-N-Go Organization](https://github.com/grub-n-go/grub-n-go)
 
 ## **Deployment**
 * [Digital Ocean Deployment of Grub-N-Go](http://104.236.199.85)
