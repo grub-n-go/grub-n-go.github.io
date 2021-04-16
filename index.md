@@ -5,7 +5,7 @@
 * [Use Case Ideas](#use-case-ideas)
 * [Beyond The Basics](#beyond-the-basics)
 * [GitHub Organization](#github-organization)
-* [Mock Ups And Screen Shots](#mock-ups-and-screen-shots)
+* [Page Mock Ups And Screen Shots](#page-mock-ups-and-screen-shots)
 * [Project Board](#project-board)
 * [Team](#team)
 
@@ -64,16 +64,23 @@ After implementing the basic functionality, here are ideas for more advanced fea
 ## **Deployment**
 * [Digital Ocean Deployment of Grub-N-Go](http://104.236.199.85)
 
-## **Mock Ups And Screen Shots**
+## **Page Mock Ups And Screen Shots (Updated: April 15, 2021)**
 
-### **Navigation Bar Mockup/Screenshot Goal**
-<img class="ui large image" src="/image/UHmock-up.png">
+### **Venues**
+<img class="ui large image" src="/image/venue-page-mockup.png">
 
-### **Central Page Goal Design**
-<img class="ui large image" src="/image/PandaCentral.png">
+### **Top Picks**
+<img class="ui large image" src="/image/Top-Picks-Page-Mockup.png">
 
-### **Footer Menu Mockupup/Screenshot End Result**
-<img class="ui large image" src="/image/footer.png">
+### **Sign-In**
+<img class="ui large image" src="/image/signin-mockup.png">
+
+### **User Profile**
+<img class="ui large image" src="/image/userprofile-mockup.png">
+
+### **Add User Profile**
+<img class="ui large image" src="/image/adduserprofile-mockup.png">
+
 
 ## **Project Board**
 * [M1](https://github.com/grub-n-go/grub-n-go/projects/2)
