@@ -5,7 +5,7 @@
 * [Use Case Ideas](#use-case-ideas)
 * [Beyond The Basics](#beyond-the-basics)
 * [Mock Ups And Screen Shots](#mock-ups-and-screen-shots)
-* [Project Board] (#project-Board)
+* [Project Board] (#Project-Board)
 * [Team](#team)
 
 ## **Overview**
