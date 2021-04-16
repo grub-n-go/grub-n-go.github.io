@@ -5,7 +5,7 @@
 * [Use Case Ideas](#use-case-ideas)
 * [Beyond The Basics](#beyond-the-basics)
 * [Mock Ups And Screen Shots](#mock-ups-and-screen-shots)
-* [Project Board] (#project-board)
+* [Project Board] (#project-Board)
 * [Team](#team)
 
 ## **Overview**
@@ -69,9 +69,9 @@ After implementing the basic functionality, here are ideas for more advanced fea
 ### **Footer Menu Mockupup/Screenshot End Result**
 <img class="ui large image" src="/image/footer.png">
 
-## Project Board
-* [M1]
-* [M2](https://github.com/grub-n-go/grub-n-go/projects/2)
+### **Project Board**
+* [M1](https://github.com/grub-n-go/grub-n-go/projects/2)
+* [M2](https://github.com/grub-n-go/grub-n-go/projects/5)
 
 ## **Team**
 Grub-n-Go is designed, implemented, and maintained by [Ryan Vizcarra](https://ryanv048.github.io/), [Kristine Rivera](https://tineriver.github.io/), [Karl Penuliar](https://karlp1998.github.io/) & [Michael Pierce](https://michaelrpierce.github.io/)
