@@ -63,7 +63,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * [Grub-N-Go Organization](https://github.com/grub-n-go/grub-n-go)
 
 ## **Deployment**
-* [Digital Ocean Deployment of Grub-N-Go](http://104.236.199.85)
+* [Digital Ocean Deployment of Grub-N-Go](https://grubngo.xyz/)
 
 ## **Page Mock Ups And Screen Shots (Updated: April 15, 2021)**
 
