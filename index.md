@@ -98,8 +98,8 @@ After implementing the basic functionality, here are ideas for more advanced fea
   </tr>
 </table>
 <tr>
-    <td align="center">User Sign-Up<img src="/image/login-signup-04-27.PNG"></td>
-    <td align="center">Vendor Sign-Up<img src="/image/login-signup-vendor-04-27.PNG"></td>
+    <td align="center">User Sign-Up<img src="/image/login-signup-04-27.png"></td>
+    <td align="center">Vendor Sign-Up<img src="/image/login-signup-vendor-04-27.png"></td>
   </tr>
 </table>
 
