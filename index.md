@@ -63,9 +63,25 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 ## **User Guide**
 
+#### Landing Page
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;Test User Guide.
+&nbsp;&nbsp;&nbsp;&nbsp; The user is greeted with a landing page as can be seen below. From the landing page the user is able to browse through all the available food venues within the University Of Hawaii at Manoa campus, they are able to view the menus available specific to the day the user is viewing the website and ommitting the display of all other food venues that are currently closed or are off campus, they are able to select a top picks section, in which the user can see the most popular choices based on other users interests, and lastly, the user is able to login to their user profile or create a profile if they are not a current user.
 </p>
+<img class="ui large image" src="/image/landing-page-draft.png">
+</br>
+
+#### Venues Page
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Within the venues page the user is able to view all the available food venues within the campus. each card displays the food venues name, their location, the hours of operation, and a brief description about their venue. An image of the Venues page can be seen below.
+</p>
+<img class="ui large image" src="/image/venues-04-27.png">
+
+#### Today's Menu
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; The Today's Menu page will display all available menus of venues available on the campus for that specific day that the user is using the site. The Today's Menu is displayed as such that each venue card will display the venues logo and what is being served for that day with each specific venue allowing the user to scroll through the many choices availabel. A sample image of the layout of the Today's Menu can be seen below.
+</p>
+<img class="ui large image" src="/image/todays-menu-04-27.png">
+
 
 ## **Developer Guide**
 
