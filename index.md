@@ -6,10 +6,12 @@
 * [Beyond The Basics](#beyond-the-basics)
 * [User Guide](#user-guide)
 * [Developer Guide](#developer-guide)
+* [Database Collection](#database-collection)
 * [GitHub Organization](#github-organization)
 * [Deployment](#deployment)
 * [Project Board](#project-board)
 * [Team](#team)
+* [DataBase Collection](#database-collection)
 
 ## **Overview**
 
@@ -250,6 +252,28 @@ You can clear the system data to re-intialize default datas using:
 ```
 meteor reset
 ```
+
+## **Database Collection**
+<h3 align="center">
+<strong>Profiles Collection Database</strong>
+</h3>
+<table style="padding:10px">
+  <tr>
+    <td align="center"><strong>Before</strong> User Is Added<img src="/image/db-before-user04-27.png"></td>
+    <td align="center"><strong>After</strong> User Is Added<img src="/image/db-after-user-04-27.png"></td>
+  </tr>
+  <p></p>  
+</table>
+  <h3 align="center">
+ <strong>Vendors Collection Database</strong>
+  </h3>
+    
+<table style="padding:10px">
+  <tr>
+    <td align="center"><strong>Before</strong> Vendor Is Added<img src="/image/db-before-vendor-04-27.png"></td>
+    <td align="center"><strong>After</strong> Vendor Is Added<img src="/image/db-after-vendor-04-27.png"></td>
+  </tr>
+</table>
 
 ## **GitHub Organization**
 * [Grub-N-Go Organization](https://github.com/grub-n-go/grub-n-go)
