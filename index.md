@@ -80,12 +80,6 @@ After implementing the basic functionality, here are ideas for more advanced fea
 </p>
 <img class="ui large image" src="/image/todays-menu-04-27.png">
 
-### Top Picks
-<p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp; The top picks page will display to the user all available venues but based on preferences(i.e. Chinese, Local, Hawaiian, or Korean). Each preference will have a specific card and will display specific venues that offer that preference.
-</p>
-<img class="ui large image" src="/image/top-picks-04-27.png">
-
 ### Login
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Login allows the user to either login to their current profile or signup to create a profile. When creating a profile the page will also ask the user their role, for example, if they are a student, admin, or a vendor. With the designation the user will be able to make specific changes depending on their role. If the user selects the role of student, they would only be able to make edit regarding their user profile, If the user selects the role as a vendor the vendor would be given access to edit their vendor page or add their food establishment to the list of venues from the Vendor page. If the user selects admin, they would be granted full access to the site and make any needed changes to the site. The Login and sign-up pages can be seen below, once the user successfully creates a profile the user will be re-directed to a form for the user to fill out.
@@ -138,6 +132,18 @@ After implementing the basic functionality, here are ideas for more advanced fea
   <tr>
     <td align="center">Venues Page Before Adding A Vendor<img src="/image/venues-before-add-04-27.png"></td>
     <td align="center">Venues Page After Adding A Vendor<img src="/image/venues-after-add-04-27.png"></td>
+  </tr>
+</table>
+
+### Admin
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Admin would be displayed on the Navigation Bar if a user signs up or is registered as an admin. Within the admin page, the admin would be able to see a list of all the current users of the site and also all the available vendors/venues in the venues page in a card format. 
+</p>
+
+<table style="padding:10px">
+  <tr>
+    <td align="center">List Of All Users Under Admin Login<img src="/image/admin-users-04-27.png"></td>
+    <td align="center">List Of All Vendors Under Admin Login<img src="/image/admin-vendors-04-27.png"></td>
   </tr>
 </table>
 
