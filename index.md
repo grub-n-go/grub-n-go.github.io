@@ -83,10 +83,21 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 ### Top Picks
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp; The top picks page will display to the user all available venues but based on preferences(i.e. Chinese, Local, Hawaiian, or Korean). Each preference will have a specific card and will display specific venues that offer that preference.h
+&nbsp;&nbsp;&nbsp;&nbsp; The top picks page will display to the user all available venues but based on preferences(i.e. Chinese, Local, Hawaiian, or Korean). Each preference will have a specific card and will display specific venues that offer that preference.
 </p>
 <img class="ui large image" src="/image/top-picks-04-27.png">
 
+### Login
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Login will give the user the option to 
+ 
+</p>
+ <table style="padding:10px">
+  <tr>
+    <td align="center">Login Page<img src="/image/login-04-27.png"></td>
+    <td align="center">Sign-Up Page<img src="/image/signup-04-27.png"></td>
+  </tr>
+</table>
 
 
 ## **Developer Guide**
