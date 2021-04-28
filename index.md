@@ -83,7 +83,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 ### Top Picks
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp; The top picks page will display to the user all available venues but based on preferences(i.e. Chinese, Local, Hawaiian, or Korean). Each preference will have a specific card and will display specific venues that offer that preference.
+&nbsp;&nbsp;&nbsp;&nbsp; The top picks page will display to the user all available venues but based on preferences(i.e. Chinese, Local, Hawaiian, or Korean). Each preference will have a specific card and will display specific venues that offer that preference.h
 </p>
 <img class="ui large image" src="/image/top-picks-04-27.png">
 
