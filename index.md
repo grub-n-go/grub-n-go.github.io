@@ -104,6 +104,16 @@ After implementing the basic functionality, here are ideas for more advanced fea
   </tr>
 </table>
 
+### Adding A Profile Form
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; When creating a new profile and the users email has be checked against the database and no such email exists, the user will be redirected to a form for the user to fill out, which can be seen below. Once the form has been filled out a pop-up window will be displayed indicating that the profile has be successfully been created and added to the database.
+</p>
+<table style="padding:10px">
+  <tr>
+    <td align="center">Sign Up Form<img src="/image/signup-form-04-27.png"></td>
+    <td align="center">Sign-Up Success Page<img src="/image/signup-success-04-27.png"></td>
+  </tr>
+</table>
 
 ## **Developer Guide**
 
