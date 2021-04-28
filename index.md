@@ -124,10 +124,107 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 ## **Developer Guide**
 
-<p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp;Test User Guide.
-  
-</p>
+## Installation
+
+First, [install Meteor](https://www.meteor.com/install).
+
+Second, download a copy of [grub-n-go](https://github.com/grub-n-go/grub-n-go).
+
+Third, cd into the app/ directory of your local copy of the repo, and install third party libraries with:
+
+```
+$ meteor npm install
+```
+
+## Running the system
+
+Once the libraries are installed, you can run the application by invoking the "start" script in the [package.json file](https://github.com/ics-software-engineering/meteor-application-template-react/blob/master/app/package.json):
+
+```
+$ meteor npm run start
+```
+
+The first time you run the app, it will create some default users and data. Here is the output:
+
+```
+meteor npm run start
+
+> bowfolios@ start D:\github\michaelrpierce\grub-n-go\app
+> meteor --no-release-check --exclude-archs web.browser.legacy,web.cordova --settings ../config/settings.development.json
+
+[[[[[ ~\D\github\michaelrpierce\grub-n-go\app ]]]]]
+
+=> Started proxy.
+=> Started MongoDB.
+W20210427-21:21:49.170(-10)? (STDERR) Note: you are using a pure-JavaScript implementation of bcrypt.
+W20210427-21:21:49.845(-10)? (STDERR) While this implementation will work correctly, it is known to be
+W20210427-21:21:49.847(-10)? (STDERR) approximately three times slower than the native implementation.
+W20210427-21:21:49.848(-10)? (STDERR) In order to use the native implementation instead, run
+W20210427-21:21:49.848(-10)? (STDERR)
+W20210427-21:21:49.849(-10)? (STDERR)   meteor npm install --save bcrypt
+W20210427-21:21:49.850(-10)? (STDERR)
+W20210427-21:21:49.851(-10)? (STDERR) in the root directory of your application.
+I20210427-21:21:57.018(-10)? Creating default Profiles.
+I20210427-21:21:57.019(-10)? Defining profile johnson@hawaii.edu
+I20210427-21:21:57.957(-10)? Defining profile henric@hawaii.edu
+I20210427-21:21:58.287(-10)? Defining profile cmoore@hawaii.edu
+I20210427-21:21:58.612(-10)? Defining profile achriste@hawaii.edu
+I20210427-21:21:58.941(-10)? Defining profile leighj@hawaii.edu
+I20210427-21:21:59.264(-10)? Defining profile sin8@hawaii.edu
+I20210427-21:21:59.609(-10)? Creating default Vendors.
+I20210427-21:21:59.610(-10)? Defining profile panda@foo.com
+I20210427-21:22:00.401(-10)? Defining profile spot@foo.com
+I20210427-21:22:00.810(-10)? Defining profile crepe@foo.com
+I20210427-21:22:01.134(-10)? Defining profile lnl@foo.com
+I20210427-21:22:01.463(-10)? Creating default Projects.
+I20210427-21:22:01.464(-10)? Defining project Open Power Quality
+I20210427-21:22:01.763(-10)? Defining project RadGrad
+I20210427-21:22:01.768(-10)? Defining project WRENCH
+I20210427-21:22:01.777(-10)? Defining project Cyber Canoe
+I20210427-21:22:02.423(-10)? Monti APM: completed instrumenting the app
+=> Started your app.
+
+=> App running at: http://localhost:3000/
+```
+
+
+### Note regarding "bcrypt warning":
+
+You will also get the following message when you run this application:
+
+```
+Note: you are using a pure-JavaScript implementation of bcrypt.
+While this implementation will work correctly, it is known to be
+approximately three times slower than the native implementation.
+In order to use the native implementation instead, run
+
+  meteor npm install --save bcrypt
+
+in the root directory of your application.
+```
+
+On some operating systems (particularly Windows), installing bcrypt is much more difficult than implied by the above message. Bcrypt is only used in Meteor for password checking, so the performance implications are negligible until your site has very high traffic. You can safely ignore this warning without any problems during initial stages of development.
+
+
+### Viewing the running app
+
+If all goes well, the template application will appear at [http://localhost:3000](http://localhost:3000).  You can login using the credentials in [settings.development.json](https://github.com/grub-n-go/grub-n-go/blob/master/config/settings.development.json), or else register a new account.
+
+### ESLint
+
+You can verify that the code obeys our coding standards by running ESLint over the code in the imports/ directory with:
+
+```
+meteor npm run lint
+```
+
+### Resetting the Database
+
+You can clear the system data to re-intialize default datas using:
+
+```
+meteor reset
+```
 
 ## **GitHub Organization**
 * [Grub-N-Go Organization](https://github.com/grub-n-go/grub-n-go)
