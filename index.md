@@ -93,14 +93,13 @@ After implementing the basic functionality, here are ideas for more advanced fea
 </p>
  <table style="padding:10px">
   <tr>
-    <td align="center">Login Page<img src="/image/login-04-27.png"></td>
+    <td align="center">Login Drop Down<img src="/image/login-dropdown-04-27.png"></td>
     <td align="center">Sign-Up Page<img src="/image/signup-04-27.png"></td>
   </tr>
 </table>
-<table style="padding:10px">
-  <tr>
-    <td align="center">Login Drop Down Option<img src="/image/login-dropdown-04-27.png"></td>
-    <td align="center">Existing User Error<img src="/image/signup-error-04-27.png"></td>
+<tr>
+    <td align="center">User Sign-Up<img src="/image/login-signup-04-27.PNG"></td>
+    <td align="center">Vendor Sign-Up<img src="/image/login-signup-vendor-04-27.PNG"></td>
   </tr>
 </table>
 
@@ -121,6 +120,23 @@ After implementing the basic functionality, here are ideas for more advanced fea
 </p>
 <img class="ui large image" src="/image/user-profile-04-27.png">
 
+### Vendor Form
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; Upon signing up if the user designated themselves as a vendor, the user would then have the option to add their vendor to the venues page. Clicking on Vendor will re-direct the user to the vendor form. The vendor would need to input their contact information, the name of their business their location on campus, hours of operation, a description of their establishment, a picture or logo, and they type of food they serve. After filling out the form and the vendor clicks on submit the venue would then be added to the venue page and a pop-up window will display indicating successfull addition of the venue. 
+</p> 
+
+<table style="padding:10px">
+  <tr>
+    <td align="center">Vendor Form<img src="/image/vendor-form-04-27.png"></td>
+    <td align="center">Vendor Success Page<img src="/image/vendor-signup-success-04-27.png"></td>
+  </tr>
+</table>
+<table style="padding:10px">
+  <tr>
+    <td align="center">Venues Page Before Adding A Vendor<img src="/image/venues-before-add-04-27.png"></td>
+    <td align="center">Venues Page After Adding A Vendor<img src="/image/venues-after-add-04-27.png"></td>
+  </tr>
+</table>
 
 ## **Developer Guide**
 
