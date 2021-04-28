@@ -8,7 +8,6 @@
 * [Developer Guide](#developer-guide)
 * [GitHub Organization](#github-organization)
 * [Deployment](#deployment)
-* [Page Mock Ups And Screen Shots](#page-mock-ups-and-screen-shots)
 * [Project Board](#project-board)
 * [Team](#team)
 
@@ -252,30 +251,11 @@ meteor reset
 ## **Deployment**
 * [Digital Ocean Deployment of Grub-N-Go](https://grubngo.xyz/)
 
-## **Page Mock Ups And Screen Shots (Updated: April 15, 2021)**
-
-### **Landing Page**
-<img class="ui large image" src="/image/landing-page-draft.png">
-
-### **Venues**
-<img class="ui large image" src="/image/venue-page-mockup.png">
-
-### **Top Picks**
-<img class="ui large image" src="/image/Top-Picks-Page-Mockup.png">
-
-### **Sign-In**
-<img class="ui large image" src="/image/signin-mockup.png">
-
-### **User Profile**
-<img class="ui large image" src="/image/userprofile-mockup.png">
-
-### **Add User Profile**
-<img class="ui large image" src="/image/adduserprofile-mockup.png">
-
 
 ## **Project Board**
 * [M1](https://github.com/grub-n-go/grub-n-go/projects/2)
 * [M2](https://github.com/grub-n-go/grub-n-go/projects/5)
+* [M3](https://github.com/grub-n-go/grub-n-go/projects/6)
 
 ## **Team**
 
