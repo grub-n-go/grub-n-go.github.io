@@ -115,6 +115,13 @@ After implementing the basic functionality, here are ideas for more advanced fea
   </tr>
 </table>
 
+### User Profile
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; The User Profile displays the user information with their information, such as, their email, title, bio, and their preferences in food. The user will be able to edit their profile as they see fit with the edit button.
+</p>
+<img class="ui large image" src="/image/user-profile-04-27.png">
+
+
 ## **Developer Guide**
 
 <p align="justify">
