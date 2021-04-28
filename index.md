@@ -161,4 +161,5 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * [M2](https://github.com/grub-n-go/grub-n-go/projects/5)
 
 ## **Team**
+
 Grub-n-Go is designed, implemented, and maintained by [Ryan Vizcarra](https://ryanv048.github.io/), [Kristine Rivera](https://tineriver.github.io/), [Karl Penuliar](https://karlp1998.github.io/) & [Michael Pierce](https://michaelrpierce.github.io/)
