@@ -4,6 +4,8 @@
 * [Approach](#approach)
 * [Use Case Ideas](#use-case-ideas)
 * [Beyond The Basics](#beyond-the-basics)
+* [User Guide](#user-guide)
+* [Developer Guide](#developer-guide)
 * [GitHub Organization](#github-organization)
 * [Deployment](#deployment)
 * [Page Mock Ups And Screen Shots](#page-mock-ups-and-screen-shots)
@@ -58,6 +60,19 @@ After implementing the basic functionality, here are ideas for more advanced fea
 * Allow students to rate menu items.
 * Integrated map functionality; note that some food trucks change their location over the course of a week.
 * Provide feed of tweets from vendors (some vendors might use Twitter to advertise daily specials and locations.)
+
+## **User Guide**
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;Test User Guide.
+</p>
+
+## **Developer Guide**
+
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp;Test User Guide.
+  
+</p>
 
 ## **GitHub Organization**
 * [Grub-N-Go Organization](https://github.com/grub-n-go/grub-n-go)
