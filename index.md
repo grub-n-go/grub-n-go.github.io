@@ -89,13 +89,18 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 ### Login
 <p align="justify">
-&nbsp;&nbsp;&nbsp;&nbsp; Login will give the user the option to 
- 
+&nbsp;&nbsp;&nbsp;&nbsp; Login allows the user to either login to their current profile or signup to create a profile. When creating a profile the page will also ask the user their role, for example, if they are a student, admin, or a vendor. With the designation the user will be able to make specific changes depending on their role. If the user selects the role of student, they would only be able to make edit regarding their user profile, If the user selects the role as a vendor the vendor would be given access to edit their vendor page or add their food establishment to the list of venues from the Vendor page. If the user selects admin, they would be granted full access to the site and make any needed changes to the site. The Login and sign-up pages can be seen below, once the user successfully creates a profile the user will be re-directed to a form for the user to fill out.
 </p>
  <table style="padding:10px">
   <tr>
     <td align="center">Login Page<img src="/image/login-04-27.png"></td>
     <td align="center">Sign-Up Page<img src="/image/signup-04-27.png"></td>
+  </tr>
+</table>
+<table style="padding:10px">
+  <tr>
+    <td align="center">Login Drop Down Option<img src="/image/login-dropdown-04-27.png"></td>
+    <td align="center">Existing User Error<img src="/image/signup-error-04-27.png"></td>
   </tr>
 </table>
 
