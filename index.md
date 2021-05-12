@@ -82,6 +82,11 @@ After implementing the basic functionality, here are ideas for more advanced fea
 </p>
 <img class="ui large image" src="/image/todays-menu-04-27.png">
 
+### BY Category
+<p align="justify">
+ &nbsp;&nbsp;&nbsp;&nbsp; The By Category page allows the user to see vendors and the type of food that they offer. Users will see cards with the categories of foods such as Chinese, Mediterranean, etc., and which vendors falls under each category of food. So if a user wanted some local cuisine, they would see three vendors that offer that type of food (L&L, Holoholo Grill, & Ono Seafood). If they wanted a mix of Mediterranean and North African food, they would see that one vendor offers both types of food (Da Spot).
+</p
+
 ### Login
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Login allows the user to either login to their current profile or signup to create a profile. When creating a profile the page will also ask the user their role, for example, if they are a student, admin, or a vendor. With the designation the user will be able to make specific changes depending on their role. If the user selects the role of student, they would only be able to make edit regarding their user profile, If the user selects the role as a vendor the vendor would be given access to edit their vendor page or add their food establishment to the list of venues from the Vendor page. If the user selects admin, they would be granted full access to the site and make any needed changes to the site. The Login and sign-up pages can be seen below, once the user successfully creates a profile the user will be re-directed to a form for the user to fill out.
