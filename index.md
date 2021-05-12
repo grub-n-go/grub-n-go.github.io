@@ -84,9 +84,14 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 ### By Category
 <p align="justify">
- &nbsp;&nbsp;&nbsp;&nbsp; The By Category page allows the user to see vendors and the type of food that they offer. Users will see cards with the categories of foods such as Chinese, Mediterranean, etc., and which vendors falls under each category of food. So if a user wanted some local cuisine, they would see three vendors that offer that type of food (L&L, Holoholo Grill, & Ono Seafood). If they wanted a mix of Mediterranean and North African food, they would see that one vendor offers both types of food (Da Spot).
+&nbsp;&nbsp;&nbsp;&nbsp; The By Category page allows the user to see vendors and the type of food that they offer. Users will see cards with the categories of foods such as Chinese, Mediterranean, etc., and which vendors falls under each category of food. So if a user wanted some local cuisine, they would see three vendors that offer that type of food (L&L, Holoholo Grill, & Ono Seafood). If they wanted a mix of Mediterranean and North African food, they would see that one vendor offers both types of food (Da Spot).
 </p>
 <img class="ui large image" src="/image/bycategory.PNG">
+
+### Filter
+<p align="justify">
+&nbsp;&nbsp;&nbsp;&nbsp; The filter page works similarly to the 'By Category' page which allows the user to search for vendors that are offering the type(s) of food they want. The only difference is that the user will get to choose what type of food they're looking for, and when they submit the form, they will see the cards of vendors that offer the type of food the user wants at that current moment.
+</p>
 
 ### Login
 <p align="justify">
