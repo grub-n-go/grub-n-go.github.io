@@ -82,10 +82,10 @@ After implementing the basic functionality, here are ideas for more advanced fea
 </p>
 <img class="ui large image" src="/image/todays-menu-04-27.png">
 
-### BY Category
+### B Category
 <p align="justify">
  &nbsp;&nbsp;&nbsp;&nbsp; The By Category page allows the user to see vendors and the type of food that they offer. Users will see cards with the categories of foods such as Chinese, Mediterranean, etc., and which vendors falls under each category of food. So if a user wanted some local cuisine, they would see three vendors that offer that type of food (L&L, Holoholo Grill, & Ono Seafood). If they wanted a mix of Mediterranean and North African food, they would see that one vendor offers both types of food (Da Spot).
-</p
+</p>
 
 ### Login
 <p align="justify">
