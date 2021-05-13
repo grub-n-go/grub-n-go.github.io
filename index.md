@@ -160,8 +160,8 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 <table style="padding:10px">
   <tr>
-    <td align="center">List Of All Users Under Admin Login<img src="/image/admin-users-04-27.png"></td>
-    <td align="center">List Of All Vendors Under Admin Login<img src="/image/admin-vendors-04-27.png"></td>
+    <td align="center">List Of All Users Under Admin Login<img src="/image/useradmin.PNG"></td>
+    <td align="center">List Of All Vendors Under Admin Login<img src="/image/vendoradmin.PNG"></td>
   </tr>
 </table>
 
