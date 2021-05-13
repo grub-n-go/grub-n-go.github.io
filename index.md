@@ -9,6 +9,7 @@
 * [Database Collection](#database-collection)
 * [GitHub Organization](#github-organization)
 * [Deployment](#deployment)
+* [Community Feedback](#community-feedback)
 * [Project Board](#project-board)
 * [Team](#team)
 * [DataBase Collection](#database-collection)
@@ -309,6 +310,13 @@ meteor reset
 ## **Deployment**
 * [Digital Ocean Deployment of Grub-N-Go](https://grubngo.xyz/)
 
+
+## **Community Feedback**
+* "Overall the design was neat and made it easy to navigate through the site. I made my own account and saw the vendor tab, not sure what it was for, but I would definitely use this to look for places to eat around campus" - *Jay Ramos, Information & Computer Sciences*
+* "I like the concept and design, I would probably use it if I were still a student at UH Law because the distance to between the Law School and campus center is so great. But I need to know who to contact to use the service, so even, if it isn't a functioning number and email, you should include one." - *Jesse Sliwa, Law School Alumni*
+* "My first impression is the website is very vibrant and inviting, its clear from the title that its about food and where you can get it at the manoa campus in terms of criticisms, just on the front page I think you should include what the item is for the specials and where a student can go to get it doesn't even have to be a link" - *Kyle Neubauer, EE senior*
+* "Grub n Go website is not only very esthetically eye pleasing but simple and intuitive to navigate through. As a student with having everything virtual, having this would be useful to know what are all my options all in one reliable website. Also its great because I get to also stay up to date if any new spots are open and their hours between or after classes. I thought it was also genius to have “Today’s Menu” or “Top Picks” as an option for adventurous eaters or someone who wants to try something new without wasting time. Very Organized and thoughtful for the users experience. I love also how they still incorporate UH so I know its local and I’m on the right website as a student." - *Blossom Ramones, Fashion Design*
+* "Visually pleasing and helpful. It would really come in handy in figuring out what food is available within the UH campus. The over saturation of food vendors in other food service sites provides too many choices, which makes it hard to make make quick decisions. This site cuts down all the vendors outside the UH campus so that I don't have to waste time and gas to find food and it's close enough so that I can study while I eat if I want to." - *Harvey Salcedo, Culinary of Arts*
 
 ## **Project Board**
 * [M1](https://github.com/grub-n-go/grub-n-go/projects/2)
