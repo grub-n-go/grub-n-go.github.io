@@ -9,6 +9,7 @@
 * [Database Collection](#database-collection)
 * [GitHub Organization](#github-organization)
 * [Deployment](#deployment)
+* [Acceptance Testing](#acceptance-testing)
 * [Community Feedback](#community-feedback)
 * [Project Board](#project-board)
 * [Team](#team)
@@ -309,6 +310,9 @@ meteor reset
 
 ## **Deployment**
 * [Digital Ocean Deployment of Grub-N-Go](https://grubngo.xyz/)
+
+## **Acceptance Testing**
+<img class="ui large image" src="https://github.com/grub-n-go/grub-n-go/workflows/ci-bowfolios/badge.svg">
 
 
 ## **Community Feedback**
