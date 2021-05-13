@@ -277,13 +277,13 @@ meteor reset
 
 <table style="padding:10px">
   <tr>
-    <td align="center"><strong>Before</strong> User Is Added<img src="/image/db-before-user04-27.png"></td>
+    <td align="center"><strong>Before</strong> User Is Added<img src="/image/beforeuseradded.PNG"></td>
   </tr>
 </table> 
 
 <table style="padding:10px">
   <tr>
-    <td align="center"><strong>After</strong> User Is Added<img src="/image/db-after-user-04-27.png"></td>
+    <td align="center"><strong>After</strong> User Is Added<img src="/image/afteruseradded.PNG"></td>
   </tr>
 </table>
 
@@ -295,13 +295,13 @@ meteor reset
     
 <table style="padding:10px">
   <tr>
-    <td align="center"><strong>Before</strong> Vendor Is Added<img src="/image/db-before-vendor-04-27.png"></td>
+    <td align="center"><strong>Before</strong> Vendor Is Added<img src="/image/beforevendoradded.PNG"></td>
   </tr>
 </table>
 
 <table style="padding:10px">
   <tr>
-    <td align="center"><strong>After</strong> Vendor Is Added<img src="/image/db-after-vendor-04-27.png"></td>
+    <td align="center"><strong>After</strong> Vendor Is Added<img src="/image/aftervendortestadded.PNG"></td>
   </tr>
 </table>
 
