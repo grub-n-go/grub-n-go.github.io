@@ -68,7 +68,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; The user is greeted with a landing page as can be seen below. From the landing page the user is able to browse through all the available food venues within the University Of Hawaii at Manoa campus, they are able to view the menus available specific to the day the user is viewing the website and ommitting the display of all other food venues that are currently closed or are off campus, they are able to view types of food in the 'By Category' section, which allows the user to see the different categories of food the campus has to offer and which vendors have it available. Lastly, the user is able to login to their user profile or create a profile if they are not a current user.
 </p>
-<img class="ui large image" src="/image/landingpage.PNG">
+<img class="ui large image" src="/image/landingpage.PNG"
 
 ### Venues Page
 <p align="justify">
