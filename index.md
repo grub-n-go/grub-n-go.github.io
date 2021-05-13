@@ -123,8 +123,8 @@ After implementing the basic functionality, here are ideas for more advanced fea
 </p>
 <table style="padding:10px">
   <tr>
-    <td align="center">Sign Up Form<img src="/image/signup-form-04-27.png"></td>
-    <td align="center">Sign-Up Success Page<img src="/image/signup-success-04-27.png"></td>
+    <td align="center">Sign Up Form<img src="/image/signupform.PNG"></td>
+    <td align="center">Sign-Up Success Page<img src="/image/signupsuccess.PNG"></td>
   </tr>
 </table>
 
@@ -132,7 +132,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; The User Profile displays the user information with their information, such as, their email, title, bio, and their preferences in food. The user will be able to edit their profile as they see fit with the edit button.
 </p>
-<img class="ui large image" src="/image/user-profile-04-27.png">
+<img class="ui large image" src="/image/userprofile.PNG">
 
 ### Vendor Form
 <p align="justify">
