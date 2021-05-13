@@ -108,7 +108,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
   </tr>
 </table>
 
-<table style="padding:10px">
+<table>
   <tr>
     <td align="center">User Sign-Up Error<img src="/image/usersigninerror.PNG"></td>
     <td align="center">Vendor Sign-Up Error<img src="/image/vendorsignuperror.PNG"></td>
