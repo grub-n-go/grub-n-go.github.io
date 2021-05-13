@@ -92,6 +92,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; The filter page works similarly to the 'By Category' page which allows the user to search for vendors that are offering the type(s) of food they want. The only difference is that the user will get to choose what type of food they're looking for, and when they submit the form, they will see the cards of vendors that offer the type of food the user wants at that current moment.
 </p>
+<img class="ui large image" src="/image/filterpage.PNG">
 
 ### Login
 <p align="justify">
