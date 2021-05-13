@@ -80,7 +80,10 @@ After implementing the basic functionality, here are ideas for more advanced fea
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; The Today's Menu page will display all available menus of venues available on the campus for that specific day that the user is using the site. The Today's Menu is displayed as such that each venue card will display the venues logo and what is being served for that day with each specific venue allowing the user to scroll through the many choices availabel. A sample image of the layout of the Today's Menu can be seen below.
 </p>
-<img class="ui large image" src="/image/todays-menu-04-27.png">
+<table>
+ <img class="ui image" src="/image/todaysmenu1.PNG">
+ <img class="ui image" src="/image/todaysmenu2.PNG">
+</table>
 
 ### By Category
 <p align="justify">
