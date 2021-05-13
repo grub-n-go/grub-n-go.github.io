@@ -112,7 +112,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
   <tr>
     <td align="center">User Sign-Up Error<img src="/image/usersigninerror.PNG"></td>
     <td align="center">Vendor Sign-Up Error<img src="/image/vendorsignuperror.PNG"></td>
-    <td align="center">Login Drop Down<img src="/image/logindropdown.PNG"></td>
+    <td align="center">Login Drop-Down<img src="/image/logindropdown.PNG"></td>
   </tr>
 </table>
 
