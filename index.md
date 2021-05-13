@@ -142,14 +142,14 @@ After implementing the basic functionality, here are ideas for more advanced fea
 
 <table style="padding:10px">
   <tr>
-    <td align="center">Vendor Form<img src="/image/vendor-form-04-27.png"></td>
-    <td align="center">Vendor Success Page<img src="/image/vendor-signup-success-04-27.png"></td>
+    <td align="center">Vendor Form<img src="/image/vendorform.PNG"></td>
+    <td align="center">Vendor Success Page<img src="/image/vendorformsuccess.PNG"></td>
   </tr>
 </table>
 <table style="padding:10px">
   <tr>
-    <td align="center">Venues Page Before Adding A Vendor<img src="/image/venues-before-add-04-27.png"></td>
-    <td align="center">Venues Page After Adding A Vendor<img src="/image/venues-after-add-04-27.png"></td>
+    <td align="center">Venues Page Before Adding A Vendor<img src="/image/beforeaddvendor.PNG"></td>
+    <td align="center">Venues Page After Adding A Vendor<img src="/image/afteraddvendor.PNG"></td>
   </tr>
 </table>
 
