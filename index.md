@@ -103,16 +103,16 @@ After implementing the basic functionality, here are ideas for more advanced fea
 </p>
 <table style="padding:10px">
   <tr>
-    <td align="center">User Sign-Up<img src="/image/login-signup-04-27.png"></td>
-    <td align="center">Vendor Sign-Up<img src="/image/login-signup-vendor-04-27.png"></td>
+    <td align="center">User Sign-Up<img src="/image/usersignin.PNG"></td>
+    <td align="center">Vendor Sign-Up<img src="/image/vendorsignup.PNG"></td>
   </tr>
 </table>
 
 <table style="padding:10px">
   <tr>
-    <td align="center">User Sign-Up Error<img src="/image/signup-error-04-27.png"></td>
-    <td align="center">Vendor Sign-Up Error<img src="/image/signup-error-vendor-04-27.png"></td>
-    <td align="center">Login Drop Down<img src="/image/login-dropdown-04-27.png"></td>
+    <td align="center">User Sign-Up Error<img src="/image/usersigninerror.PNG"></td>
+    <td align="center">Vendor Sign-Up Error<img src="/image/vendorsignuperror.PNG"></td>
+    <td align="center">Login Drop Down<img src="/image/logindropdown.PNG"></td>
   </tr>
 </table>
 
