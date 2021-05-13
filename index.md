@@ -74,7 +74,7 @@ After implementing the basic functionality, here are ideas for more advanced fea
 <p align="justify">
 &nbsp;&nbsp;&nbsp;&nbsp; Within the venues page the user is able to view all the available food venues within the campus. each card displays the food venues name, their location, the hours of operation, and a brief description about their venue. An image of the Venues page can be seen below.
 </p>
-<img class="ui large image" src="/image/venues-04-27.png">
+<img class="ui large image" src="/image/venues.PNG">
 
 ### Today's Menu
 <p align="justify">
